@@ -1,0 +1,37 @@
+<div class='top-div container-fluid'>
+  <div class='header'>
+    <h1 class='trip-location'>{{this.firstItem.location}}</h1>
+    <div class="lock-icon" (click)="editOpen()">
+      <fa-icon class='lock-icon' [icon]="faLock" *ngIf="showFirst"></fa-icon>
+      <fa-icon class='lock-icon' [icon]="faLockOpen" *ngIf="!showFirst"></fa-icon>
+    </div>
+    <!-- showFirst=!showFirst -->
+  </div>
+  <div class='update-portion container-fluid'>
+
+    <div class='additional-info'>
+
+      <app-datepicker [(noEdit)] = "showFirst"></app-datepicker>
+
+    </div>
+    <div class='additional-info'>
+      <app-costmodal *ngIf = "showCalc"></app-costmodal>
+    </div>
+  </div>
+
+  <h2 class='center underline'>Cities To See</h2>
+  <div class='top-cities-container'>
+    <div class='cities-container' *ngFor="let activity of objectData">
+      <div class='actual-city'>
+        <strong> City: </strong> <span>{{activity.poi}}</span>
+      </div>
+      <div class='city-pop'>
+        <strong> Population: </strong><span>{{activity.note}}</span>
+      </div>
+      <!-- {{activity[2]}} -->
+    </div>
+  </div>
+  <h2 class='center underline'>Country Map</h2>
+  <app-tripmap *ngIf="showMap" [(gotEm)] = 'allSaved' [pulledCoords] = "morecords" [lat] = "firstLat" [lng] = "firstLong" [(noEdit)] = "showFirst"></app-tripmap>
+
+</div>

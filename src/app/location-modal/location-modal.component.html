@@ -1,0 +1,24 @@
+  <!-- The Modal -->
+  <div class="modal" id="myModal" [ngClass]="{'show':showModal}">
+    <div class="modal-dialog">
+      <div class="modal-content">
+
+        <!-- Modal Header -->
+        <div class="modal-header">
+          <h4 class="center modal-title">New Trip</h4>
+          <button type="button" class="close" data-dismiss="modal" (click) = 'passData()'>&times;</button>
+        </div>
+
+        <!-- Modal body -->
+        <div class="modal-body">
+          <input [(ngModel)] = "locationInput" class = 'w-100' placeholder="Add a new place to your bucket list">
+        </div>
+
+        <!-- Modal footer -->
+        <div class="modal-footer">
+          <button type="button" class="btn btn-primary" data-dismiss="modal" (click) = "submitLocation()">Submit</button>
+        </div>
+
+      </div>
+    </div>
+  </div>

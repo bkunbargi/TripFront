@@ -1,0 +1,9 @@
+.modal
+{
+    display:block;
+}
+
+.center{
+    position: relative;
+    left:40%;
+}

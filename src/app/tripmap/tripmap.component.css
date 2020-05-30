@@ -1,0 +1,80 @@
+.gmap_canvas {
+  height: 50vh;
+  margin-bottom: 25px;
+}
+
+#map {
+  height: 400px;
+  /* The height is 400 pixels */
+  width: 100%;
+  /* The width is the width of the web page */
+}
+
+.info-window-text {
+  margin-bottom: 0;
+  font-weight: bold;
+}
+
+/* .useIT {
+  border: 1px solid black;
+  width: 50px;
+} */
+
+.lock-div-icon{
+    /* position: absolute; */
+    /* margin-top:5px; */
+    /* top:97%; */
+    /* left:10%; */
+    padding: 10px;
+    /* margin-left:5px; */
+    /* border:1px solid black; */
+    /* z-index: 100000; */
+}
+
+.lock-div-icon:hover{
+    cursor:pointer;
+}
+
+
+.map-sidebar{
+  /* border:1px solid black; */
+  z-index:1;
+  position: absolute;
+  transition-delay: 1s;
+  /* padding:10px; */
+}
+
+.map-sidebar-white{
+  transition-delay: 1s;
+  color:white;
+  /* border:1px solid black; */
+  z-index:1;
+  position: absolute;
+  /* padding:10px; */
+}
+
+.map-options{
+  /* border: 1px solid black; */
+  margin-left:6.5px;
+}
+
+.map-options:hover{
+  cursor:pointer;
+}
+
+.sidebar-options{
+  margin-left:3px;
+  transition: visibility 0s, opacity 0.5s linear;
+}
+
+.sidebar-options:hover{
+  cursor:pointer;
+}
+
+
+.sidebar-icon{
+  margin-bottom:15px;
+  transition: visibility 0s, opacity 0.5s linear;
+  border: 1px solid black;
+}
+

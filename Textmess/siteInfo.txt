@@ -1,0 +1,679 @@
+***************** Arkansas
+lat:34.00389998, long:-91.30837178 Arkansas Post National Memorial
+lat:34.52414366, long:-93.06332936 Hot Springs National Park
+lat:36.04116481, long:-92.90761584 Buffalo National River
+lat:36.45438033, long:-94.03468357 Pea Ridge National Military Park
+lat:34.7369465, long:-92.29987899 Little Rock Central High School National Historic Site
+lat:35.38834746, long:-94.43129079 Fort Smith National Historic Site
+lat:33.66758356, long:-93.59641868 President William Jefferson Clinton Birthplace Home National Historic Site
+ Trail Of Tears National Historic Trail
+***************** Alabama
+lat:33.5154266357422, long:-86.8146667480469 Birmingham Civil Rights National Monument
+lat:34.41461863, long:-85.61734327 Little River Canyon National Preserve
+lat:32.97668879, long:-85.73413589 Horseshoe Bend National Military Park
+lat:34.6414527893066, long:-87.4196395874023 Muscle Shoals National Heritage Area
+lat:33.78002293, long:-89.03092439 Natchez Trace Parkway
+lat:34.3302903330188, long:-88.7100104093552 Natchez Trace National Scenic Trail
+ Trail Of Tears National Historic Trail
+lat:33.6352691650391, long:-85.9064331054688 Freedom Riders National Monument
+lat:32.27082092, long:-86.72823702 Selma To Montgomery National Historic Trail
+lat:32.45538671, long:-85.67983321 Tuskegee Airmen National Historic Site
+lat:32.42962115, long:-85.70488498 Tuskegee Institute National Historic Site
+lat:34.97402063, long:-85.81560314 Russell Cave National Monument
+***************** Alaska
+lat:59.05180188, long:-156.112002 Alagnak Wild River
+lat:53.9143076, long:-166.5197218 Aleutian Islands World War II National Historic Area
+lat:56.85317675, long:-157.5544362 Aniakchak National Monument & Preserve
+ Alaska Public Lands
+lat:67.41499986, long:-163.5037786 Cape Krusenstern National Monument
+lat:67.75961636, long:-153.2917758 Gates Of The Arctic National Park & Preserve
+lat:58.80086718, long:-136.8407579 Glacier Bay National Park & Preserve
+lat:71.29889155, long:-156.7529136 I&#241;upiat Heritage Center
+lat:58.62235668, long:-155.0126574 Katmai National Park & Preserve
+lat:59.81804414, long:-150.106502 Kenai Fjords National Park
+lat:63.29777484, long:-151.0526568 Denali National Park & Preserve
+lat:59.61042373, long:-135.2618535 Klondike Gold Rush National Historical Park
+lat:65.96087902, long:-164.4086432 Bering Land Bridge National Preserve
+lat:67.35631336, long:-159.2002293 Kobuk Valley National Park
+lat:60.57405857, long:-153.55535 Lake Clark National Park & Preserve
+lat:57.04718173, long:-135.3156876 Sitka National Historical Park
+lat:61.4182147, long:-142.6028439 Wrangell - St Elias National Park & Preserve
+lat:68.01027053, long:-159.831694 Noatak National Preserve
+lat:65.0935608, long:-142.7960021 Yukon - Charley Rivers National Preserve
+***************** Arizona 
+lat:36.14319567, long:-109.3388303 Canyon de Chelly National Monument
+lat:32.99702582, long:-111.5325383 Casa Grande Ruins National Monument
+lat:32.01214618, long:-109.341607 Chiricahua National Monument
+lat:32.14925942, long:-109.451132 Fort Bowie National Historic Site
+lat:37.51841301, long:-110.7718311 Glen Canyon National Recreation Area
+lat:36.17280161, long:-112.6836024 Grand Canyon National Park
+lat:33.18713877, long:-111.9192737 Hohokam Pima National Monument
+lat:35.70727324, long:-109.5599515 Hubbell Trading Post National Historic Site
+lat:35.96622528, long:-114.3469067 Lake Mead National Recreation Area
+ Juan Bautista de Anza National Historic Trail
+lat:34.62237771, long:-111.8147857 Montezuma Castle National Monument
+ Old Spanish National Historic Trail
+lat:36.71755643, long:-110.5504015 Navajo National Monument
+lat:36.41535465, long:-113.6682797 Parashant National Monument
+lat:34.98387664, long:-109.7877678 Petrified Forest National Park
+lat:32.03585543, long:-112.8573314 Organ Pipe Cactus National Monument
+lat:32.20909636, long:-110.7574974 Saguaro National Park
+lat:36.86282666, long:-112.7398567 Pipe Spring National Monument
+lat:35.37114323, long:-111.510376 Sunset Crater Volcano National Monument
+lat:33.64842945, long:-111.1135627 Tonto National Monument
+lat:31.567824, long:-111.051223 Tumacácori National Historical Park
+lat:35.16822994, long:-111.5024239 Walnut Canyon National Monument
+lat:35.55741077, long:-111.3957216 Wupatki National Monument
+lat:31.34900397, long:-110.2561574 Coronado National Memorial
+lat:34.77296377, long:-112.0279069 Tuzigoot National Monument
+***************** California
+lat:37.82676234, long:-122.4230206 Alcatraz Island
+lat:32.6722503, long:-117.2415985 Cabrillo National Monument
+ California National Historic Trail
+lat:35.29156348, long:-115.0935606 Castle Mountains National Monument
+lat:35.22729389, long:-118.5615781 César E. Chávez National Monument
+lat:33.98680093, long:-119.9112735 Channel Islands National Park
+lat:36.48753731, long:-117.134395 Death Valley National Park
+lat:37.6152564, long:-119.0873903 Devils Postpile National Monument
+lat:37.82604456, long:-122.0271566 Eugene O'Neill National Historic Site
+lat:37.80837439, long:-122.473747 Fort Point National Historic Site
+lat:37.85982543, long:-122.6007386 Golden Gate National Recreation Area
+lat:33.91418525, long:-115.8398125 Joshua Tree National Park
+lat:37.9828422, long:-122.1326097 John Muir National Historic Site
+ Juan Bautista de Anza National Historic Trail
+lat:40.49354575, long:-121.4075993 Lassen Volcanic National Park
+lat:41.75915823, long:-121.5172189 Lava Beds National Monument
+lat:36.72559195, long:-118.1547177 Manzanar National Historic Site
+lat:37.89658027, long:-122.5808047 Muir Woods National Monument
+lat:35.12485941, long:-115.5168258 Mojave National Preserve
+lat:36.49029208, long:-121.1813607 Pinnacles National Park
+ Old Spanish National Historic Trail
+lat:38.05511241, long:-122.8797804 Point Reyes National Seashore
+ Pony Express National Historic Trail
+lat:38.05685472, long:-122.0301603 Port Chicago Naval Magazine National Memorial
+lat:37.79718395, long:-122.4662415 Presidio of San Francisco
+lat:41.37237268, long:-124.0318129 Redwood National and State Parks
+lat:37.90999027, long:-122.360156 Rosie the Riveter WWII Home Front National Historical Park
+lat:37.81005871, long:-122.4244415 San Francisco Maritime National Historical Park
+lat:34.09777606, long:-118.7708619 Santa Monica Mountains National Recreation Area
+lat:36.71277299, long:-118.587429 Sequoia & Kings Canyon National Parks
+lat:41.88727902, long:-121.3744818 Tule Lake National Monument
+lat:40.61359941, long:-122.6022657 Whiskeytown National Recreation Area
+lat:37.84883288, long:-119.5571873 Yosemite National Park
+*****************
+lat:38.971601, long:-76.483355 Captain John Smith Chesapeake National Historic Trail
+ Washington-Rochambeau Revolutionary Route National Historic Trail
+lat:38.971601, long:-76.483355 Chesapeake Bay
+lat:39.83076929, long:-75.56353942 First State National Historical Park
+***************** Conneticut
+lat:42.2915819136851, long:-72.5242767333984 New England National Scenic Trail
+lat:42.4677505493164, long:-73.2036666870117 Coltsville National Historical Park 
+lat:40.41029575, long:-76.4337548 Appalachian National Scenic Trail
+ The Last Green Valley National Heritage Corridor
+ Washington-Rochambeau Revolutionary Route National Historic Trail
+lat:41.25886268, long:-73.45452542 Weir Farm National Historic Site
+***************** Florida
+lat:25.97079602, long:-81.08120629 Big Cypress National Preserve
+lat:28.78637529, long:-80.75419576 Canaveral National Seashore
+lat:29.89785701, long:-81.31217173 Castillo de San Marcos National Monument
+lat:27.52272613, long:-82.64335416 De Soto National Memorial
+lat:25.490587, long:-80.21023851 Biscayne National Park
+lat:24.628741, long:-82.87319 Dry Tortugas National Park
+lat:25.37294225, long:-80.88200301 Everglades National Park
+lat:29.7121489, long:-81.23567535 Fort Matanzas National Monument
+lat:32.8470785915852, long:-79.8232242465019 Gullah/Geechee Cultural Heritage Corridor
+lat:30.29924926, long:-87.75064297 Gulf Islands National Seashore
+lat:30.47251894, long:-81.49950104 Timucuan Ecological & Historic Preserve
+***************** Colorado
+lat:38.03977546, long:-103.4266499 Bent's Old Fort National Historic Site
+ California National Historic Trail
+lat:38.57779869, long:-107.7242756 Black Canyon Of The Gunnison National Park
+lat:39.05045016, long:-108.6920709 Colorado National Monument
+lat:38.46584558, long:-107.3303371 Curecanti National Recreation Area
+lat:37.79256812, long:-105.5919572 Great Sand Dunes National Park & Preserve
+lat:37.39134092, long:-109.0047977 Hovenweep National Monument
+lat:38.91260586, long:-105.2803396 Florissant Fossil Beds National Monument
+ Old Spanish National Historic Trail
+lat:40.50739742, long:-108.9333714 Dinosaur National Monument
+lat:37.23908345, long:-108.4624032 Mesa Verde National Park
+lat:40.3556924, long:-105.6972879 Rocky Mountain National Park
+ Pony Express National Historic Trail
+lat:38.56414189, long:-102.5169542 Sand Creek Massacre National Historic Site
+lat:37.24778944, long:-108.6861274 Yucca House National Monument
+ Santa Fe National Historic Trail
+***************** Georgia
+lat:40.41029575, long:-76.4337548 Appalachian National Scenic Trail
+lat:33.6085739135742, long:-84.1584930419922 Arabia Mountain National Heritage Area
+lat:33.99698333, long:-84.28953177 Chattahoochee River National Recreation Area
+lat:33.5099067687988, long:-82.0053787231445 Augusta Canal National Heritage Area
+lat:34.94317623, long:-85.28749537 Chickamauga & Chattanooga National Military Park
+lat:31.2214699, long:-81.39452014 Fort Frederica National Monument
+lat:32.19831758, long:-84.12988898 Andersonville National Historic Site
+lat:32.8470785915852, long:-79.8232242465019 Gullah/Geechee Cultural Heritage Corridor
+lat:32.03059943, long:-84.41606653 Jimmy Carter National Historic Site
+lat:33.95370717, long:-84.59214186 Kennesaw Mountain National Battlefield Park
+lat:33.75618241, long:-84.37256768 Martin Luther King, Jr. National Historical Park
+lat:32.83816576, long:-83.60224853 Ocmulgee Mounds National Historical Park
+ Trail Of Tears National Historic Trail
+lat:30.85857484, long:-81.45253575 Cumberland Island National Seashore
+lat:32.0308274, long:-80.93361681 Fort Pulaski National Monument
+***************** Iowa 
+lat:41.66793558, long:-91.35232139 Herbert Hoover National Historic Site
+lat:41.2646141052246, long:-95.9245147705078 Lewis & Clark National Historic Trail
+ Mormon Pioneer National Historic Trail
+lat:43.08095081, long:-91.19687517 Effigy Mounds National Monument
+***************** Illinois
+lat:39.79715642, long:-89.64513397 Lincoln Home National Historic Site
+ Mormon Pioneer National Historic Trail
+lat:41.2646141052246, long:-95.9245147705078 Lewis & Clark National Historic Trail
+ Trail Of Tears National Historic Trail
+lat:41.69429163, long:-87.60873824 Pullman National Monument
+***************** Indiana
+lat:38.67912659, long:-87.53545212 George Rogers Clark National Historical Park
+lat:38.11817004, long:-86.99656861 Lincoln Boyhood National Memorial
+lat:41.2646141052246, long:-95.9245147705078 Lewis & Clark National Historic Trail
+lat:41.63765525, long:-87.09647445 Indiana Dunes National Park
+***************** Hawaii
+ Ala Kahakai National Historic Trail
+lat:20.70693015, long:-156.1591775 Haleakal&#257; National Park
+lat:21.38817536, long:-158.0574991 Honouliuli National Historic Site
+lat:21.1731108, long:-156.9511609 Kalaupapa National Historical Park
+lat:19.3355036, long:-155.4700257 Hawai'i Volcanoes National Park
+lat:19.68083237, long:-156.0306932 Kaloko-Honok&#333;hau National Historical Park
+lat:19.41268627, long:-155.9008789 Pu`uhonua O H&#333;naunau National Historical Park
+lat:21.3670699388264, long:-157.938578897697 Pearl Harbor National Memorial
+lat:20.02772186, long:-155.8211629 Pu`ukohol&#257; Heiau National Historic Site
+***************** Idaho
+lat:43.20345611, long:-113.4791609 Craters Of The Moon National Monument & Preserve
+lat:42.0699024, long:-113.7124097 City Of Rocks National Reserve
+ California National Historic Trail
+lat:42.80586068, long:-114.4449868 Minidoka National Historic Site
+lat:46.07019093, long:-115.8761258 Nez Perce National Historical Park
+ Oregon National Historic Trail
+lat:42.79074114, long:-114.9443074 Hagerman Fossil Beds National Monument
+ Ice Age Floods National Geologic Trail
+lat:44.59824417, long:-110.5471695 Yellowstone National Park
+lat:41.2646141052246, long:-95.9245147705078 Lewis & Clark National Historic Trail
+***************** Louisana 
+lat:30.2919769287109, long:-91.5019378662109 Atchafalaya National Heritage Area
+lat:31.5982227325439, long:-92.9234390258789 Cane River National Heritage Area
+lat:31.65408447, long:-93.00131977 Cane River Creole National Historical Park
+lat:29.81739855, long:-90.1402241 Jean Lafitte National Historical Park and Preserve
+lat:29.96303129, long:-90.06749669 New Orleans Jazz National Historical Park
+ El Camino Real de los Tejas National Historic Trail
+lat:32.3621286, long:-90.85030186 Vicksburg National Military Park
+lat:32.6424361, long:-91.40829834 Poverty Point National Monument
+***************** Kentucky
+lat:37.5858662, long:-85.67330523 Abraham Lincoln Birthplace National Historical Park
+lat:36.62503076, long:-83.6114083 Cumberland Gap National Historical Park
+lat:36.5348388, long:-84.66506688 Big South Fork National River & Recreation Area
+ Camp Nelson National Monument
+lat:41.2646141052246, long:-95.9245147705078 Lewis & Clark National Historic Trail
+lat:37.19760458, long:-86.13090198 Mammoth Cave National Park
+ Trail Of Tears National Historic Trail
+lat:36.49019078, long:-87.92445695 Fort Donelson National Battlefield
+***************** Massachusetts
+lat:42.2553961, long:-71.01160356 Adams National Historical Park
+lat:40.41029575, long:-76.4337548 Appalachian National Scenic Trail
+ Blackstone River Valley National Historical Park
+lat:42.30905526, long:-70.93941138 Boston Harbor Islands National Recreation Area
+lat:42.35908295, long:-71.06764181 Boston African American National Historic Site
+lat:42.36957407, long:-71.05536763 Boston National Historical Park
+lat:41.92381465, long:-70.04319832 Cape Cod National Seashore
+lat:42.6678314208984, long:-70.9571075439453 Essex National Heritage Area
+lat:42.32424266, long:-71.13202567 Frederick Law Olmsted National Historic Site
+lat:42.34693694, long:-71.12323846 John Fitzgerald Kennedy National Historic Site
+lat:42.201158, long:-71.668818 John H. Chafee Blackstone River Valley National Heritage Corridor
+lat:42.37698854, long:-71.12636956 Longfellow House Washington's Headquarters National Historic Site
+lat:42.6455371, long:-71.31588673 Lowell National Historical Park
+lat:42.4562778, long:-71.30738884 Minute Man National Historical Park
+lat:41.63540552, long:-70.92322321 New Bedford Whaling National Historical Park
+lat:42.2915819136851, long:-72.5242767333984 New England National Scenic Trail
+lat:42.52024529, long:-70.88640867 Salem Maritime National Historic Site
+lat:42.46830664, long:-71.0076953 Saugus Iron Works National Historic Site
+lat:42.1086368, long:-72.57967415 Springfield Armory National Historic Site
+ The Last Green Valley National Heritage Corridor
+ Washington-Rochambeau Revolutionary Route National Historic Trail
+***************** Missouri
+ California National Historic Trail
+lat:38.6258069, long:-90.1892508 Gateway Arch National Park
+lat:38.92711967, long:-94.5162488 Harry S Truman National Historic Site
+lat:36.9871322, long:-94.35522737 George Washington Carver National Monument
+ Oregon National Historic Trail
+lat:41.2646141052246, long:-95.9245147705078 Lewis & Clark National Historic Trail
+ Pony Express National Historic Trail
+lat:37.13968894, long:-91.25709817 Ozark National Scenic Riverways
+ Trail Of Tears National Historic Trail
+lat:38.55182374, long:-90.35169255 Ulysses S Grant National Historic Site
+lat:37.1000127, long:-93.40986704 Wilson's Creek National Battlefield
+ Santa Fe National Historic Trail
+***************** Minnesota
+lat:47.99294217, long:-89.75573031 Grand Portage National Monument
+lat:44.942487, long:-93.098712 Mississippi National River and Recreation Area
+lat:44.01351958, long:-96.32475523 Pipestone National Monument
+lat:45.70019235, long:-92.36126685 Saint Croix National Scenic Riverway
+lat:48.48370609, long:-92.8382913 Voyageurs National Park
+ North Country National Scenic Trail
+***************** Maine
+lat:40.41029575, long:-76.4337548 Appalachian National Scenic Trail
+lat:45.9567565917969, long:-68.712287902832 Katahdin Woods and Waters National Monument
+lat:44.30777545, long:-68.30063316 Acadia National Park
+lat:45.12858838, long:-67.13363651 Saint Croix Island International Historic Site
+lat:47.2831115723, long:-68.4110870361 Maine Acadian Culture
+lat:44.87357167, long:-66.96209908 Roosevelt Campobello International Park
+***************** Maryland
+lat:39.46763452, long:-77.73828017 Antietam National Battlefield
+lat:40.41029575, long:-76.4337548 Appalachian National Scenic Trail
+lat:38.05593172, long:-75.24524611 Assateague Island National Seashore
+lat:39.2904968261719, long:-76.6284027099609 Baltimore National Heritage Area
+lat:39.02604289, long:-76.85410921 Baltimore-Washington Parkway
+lat:38.971601, long:-76.483355 Captain John Smith Chesapeake National Historic Trail
+lat:39.65068457, long:-77.46417665 Catoctin Mountain Park
+lat:39.3909816, long:-77.89763546 Chesapeake & Ohio Canal National Historical Park
+lat:38.971601, long:-76.483355 Chesapeake Bay
+lat:37.3221206665039, long:-76.2533569335938 Chesapeake Bay Gateways and Watertrails Network
+lat:38.76901785, long:-77.02812387 Fort Foote Park
+lat:38.93596206, long:-77.04998374 Civil War Defenses of Washington
+lat:38.70875364, long:-77.02174195 Fort Washington Park
+lat:39.26395314, long:-76.58044165 Fort McHenry National Monument and Historic Shrine
+lat:38.96912315, long:-77.14012206 Glen Echo Park
+lat:38.98328267, long:-76.89722133 Greenbelt Park
+lat:38.85452263, long:-77.08528147 George Washington Memorial Parkway
+lat:39.4175296, long:-76.58781182 Hampton National Historic Site
+lat:38.74646351, long:-77.00377069 Harmony Hall
+lat:38.96762882, long:-77.14009689 Clara Barton National Historic Site
+lat:39.31865949, long:-77.74088546 Harpers Ferry National Historical Park
+lat:38.4548643510713, long:-76.1373451375579 Harriet Tubman Underground Railroad National Historical Park
+lat:39.36084236, long:-77.39637677 Monocacy National Battlefield
+lat:38.8904075622559, long:-77.8056488037109 Journey Through Hallowed Ground National Heritage Area
+ Potomac Heritage National Scenic Trail
+lat:38.68679958, long:-77.06659744 Piscataway Park
+lat:38.80578214, long:-77.01131457 Oxon Cove  Park & Oxon Hill Farm
+lat:39.2872505188, long:-76.6034317017 Star-Spangled Banner National Historic Trail
+lat:38.52934443, long:-77.037813 Thomas Stone National Historic Site
+ Washington-Rochambeau Revolutionary Route National Historic Trail
+***************** Michigan
+lat:48.01145819, long:-88.82780657 Isle Royale National Park
+lat:47.1792308, long:-88.52275344 Keweenaw National Historical Park
+ North Country National Scenic Trail
+lat:46.56435642, long:-86.31628733 Pictured Rocks National Lakeshore
+lat:42.518180847168, long:-83.8187713623047 Motor Cities National Heritage Area
+lat:41.91291085, long:-83.37620464 River Raisin National Battlefield Park
+lat:44.92844962, long:-86.02706591 Sleeping Bear Dunes National Lakeshore
+***************** Kansas
+lat:38.18047491, long:-99.21836664 Fort Larned National Historic Site
+lat:39.03787665, long:-95.67614437 Brown v. Board of Education National Historic Site
+ California National Historic Trail
+lat:41.2646141052246, long:-95.9245147705078 Lewis & Clark National Historic Trail
+lat:39.39167606, long:-99.61680329 Nicodemus National Historic Site
+lat:37.84358849, long:-94.70429174 Fort Scott National Historic Site
+ Oregon National Historic Trail
+ Pony Express National Historic Trail
+lat:38.44023613, long:-96.5670822 Tallgrass Prairie National Preserve
+ Santa Fe National Historic Trail
+***************** Mississippi
+lat:34.50611958, long:-88.72889343 Brices Cross Roads National Battlefield Site
+lat:33.6042976379395, long:-90.4317092895508 Mississippi Delta National Heritage Area
+lat:30.6482753753662, long:-89.1123809814453 Mississippi Gulf National Heritage Area
+lat:34.0813598632813, long:-89.0573120117188 Mississippi Hills National Heritage Area
+lat:31.54697621, long:-91.39040665 Natchez National Historical Park
+lat:34.3302903330188, long:-88.7100104093552 Natchez Trace National Scenic Trail
+lat:35.13850907, long:-88.3421072 Shiloh National Military Park
+lat:30.29924926, long:-87.75064297 Gulf Islands National Seashore
+lat:34.25557705, long:-88.73708623 Tupelo National Battlefield
+lat:32.3621286, long:-90.85030186 Vicksburg National Military Park
+lat:33.78002293, long:-89.03092439 Natchez Trace Parkway
+*****************
+lat:42.42170419, long:-103.753886 Agate Fossil Beds National Monument
+lat:41.2646141052246, long:-95.9245147705078 Lewis & Clark National Historic Trail
+ California National Historic Trail
+ Mormon Pioneer National Historic Trail
+lat:42.7882189, long:-97.59077822 Missouri National Recreational River
+lat:40.28802381, long:-96.83387781 Homestead National Monument of America
+lat:42.79413083, long:-99.91870646 Niobrara National Scenic River
+lat:41.83464193, long:-103.7071351 Scotts Bluff National Monument
+ Oregon National Historic Trail
+ Pony Express National Historic Trail
+*****************
+lat:40.41029575, long:-76.4337548 Appalachian National Scenic Trail
+lat:43.4997238, long:-72.37333969 Saint-Gaudens National Historical Park
+lat:40.41029575, long:-76.4337548 Appalachian National Scenic Trail
+lat:37.1117477416992, long:-80.8496627807617 Blue Ridge National Heritage Area
+lat:36.53386746, long:-81.0420999 Blue Ridge Parkway
+lat:35.41370839, long:-75.65061112 Cape Hatteras National Seashore
+lat:35.26815509, long:-82.45106258 Carl Sandburg Home National Historic Site
+lat:35.93278602, long:-75.71496865 Fort Raleigh National Historic Site
+*****************
+lat:36.13225478, long:-79.8424561 Guilford Courthouse National Military Park
+lat:32.8470785915852, long:-79.8232242465019 Gullah/Geechee Cultural Heritage Corridor
+lat:35.60116374, long:-83.50818326 Great Smoky Mountains National Park
+lat:34.45820776, long:-78.11031134 Moores Creek National Battlefield
+lat:35.14044, long:-81.377 Overmountain Victory National Historic Trail
+lat:34.8267961, long:-76.34319082 Cape Lookout National Seashore
+ Trail Of Tears National Historic Trail
+lat:36.01637713, long:-75.66997163 Wright Brothers National Memorial
+*****************
+lat:48.00075828, long:-104.0375238 Fort Union Trading Post National Historic Site
+lat:47.3540219, long:-101.3860533 Knife River Indian Villages National Historic Site
+lat:41.2646141052246, long:-95.9245147705078 Lewis & Clark National Historic Trail
+lat:47.17777274, long:-103.4300083 Theodore Roosevelt National Park
+ North Country National Scenic Trail
+*****************
+lat:36.83682216, long:-107.9999245 Aztec Ruins National Monument
+lat:35.77898596, long:-106.3317124 Bandelier National Monument
+lat:32.14089463, long:-104.5529688 Carlsbad Caverns National Park
+lat:36.78171096, long:-103.9710427 Capulin Volcano National Monument
+lat:36.03963414, long:-107.9560076 Chaco Culture National Historical Park
+ El Camino Real de Tierra Adentro National Historic Trail
+lat:34.88422799, long:-107.9950948 El Malpais National Monument
+lat:35.90700629, long:-105.0145185 Fort Union National Monument
+lat:33.22715258, long:-108.2706711 Gila Cliff Dwellings National Monument
+lat:39.76948167, long:-100.8429548 Manhattan Project National Historical Park
+lat:35.03895916, long:-108.3463984 El Morro National Monument
+ Old Spanish National Historic Trail
+lat:35.54192238, long:-105.6814684 Pecos National Historical Park
+lat:35.13915998, long:-106.7491456 Petroglyph National Monument
+lat:34.35423203, long:-106.2050309 Salinas Pueblo Missions National Monument
+ Santa Fe National Historic Trail
+lat:32.77907858, long:-106.3333461 White Sands National Park
+lat:35.91682872, long:-106.5195724 Valles Caldera National Preserve
+ California National Historic Trail
+*****************
+lat:36.48753731, long:-117.134395 Death Valley National Park
+lat:35.96622528, long:-114.3469067 Lake Mead National Recreation Area
+lat:38.94617378, long:-114.2579782 Great Basin National Park
+ Pony Express National Historic Trail
+ Old Spanish National Historic Trail
+lat:36.3893217, long:-115.3202223 Tule Springs Fossil Beds National Monument
+*****************
+lat:39.70817829, long:-83.89328575 Charles Young Buffalo Soldiers National Monument
+lat:41.26093905, long:-81.57116722 Cuyahoga Valley National Park
+lat:39.78944467, long:-84.10442045 Dayton Aviation Heritage National Historical Park
+lat:41.5441665649414, long:-83.6975021362305 Fallen Timbers Battlefield and Fort Miamis National Historic Site
+lat:41.47369879, long:-81.49133831 David Berger National Memorial
+lat:41.66486549, long:-81.35086557 James A Garfield National Historic Site
+lat:39.31594374, long:-83.08049456 Hopewell Culture National Historical Park
+lat:41.2646141052246, long:-95.9245147705078 Lewis & Clark National Historic Trail
+lat:39.9818229675293, long:-84.0711364746094 National Aviation Heritage Area
+lat:41.65449782, long:-82.8115794 Perry's Victory & International Peace Memorial
+lat:39.11970352, long:-84.50758951 William Howard Taft National Historic Site
+ North Country National Scenic Trail
+lat:40.79689857, long:-81.37579869 First Ladies National Historic Site
+*****************
+lat:40.41029575, long:-76.4337548 Appalachian National Scenic Trail
+lat:40.4621353149414, long:-74.5613021850586 Crossroads of the American Revolution National Heritage Area
+lat:40.69946, long:-74.0401 Ellis Island Part of Statue of Liberty National Monument
+lat:41.12793491, long:-74.94751173 Delaware Water Gap National Recreation Area
+lat:39.30421499, long:-74.64969521 Great Egg Harbor River
+lat:40.56536246, long:-73.9171087 Gateway National Recreation Area
+lat:40.7650755, long:-74.53455122 Morristown National Historical Park
+ Lower Delaware National Wild and Scenic River
+lat:39.93835287, long:-74.62499857 New Jersey Pinelands National Reserve
+lat:40.91584645, long:-74.18021494 Paterson Great Falls National Historical Park
+lat:40.78549896, long:-74.23821139 Thomas Edison National Historical Park
+ Washington-Rochambeau Revolutionary Route National Historic Trail
+*****************
+lat:45.64647324, long:-113.6458443 Big Hole National Battlefield
+lat:48.68414678, long:-113.8009306 Glacier National Park
+lat:48.00075828, long:-104.0375238 Fort Union Trading Post National Historic Site
+lat:46.41358923, long:-112.7467024 Grant-Kohrs Ranch National Historic Site
+lat:45.13154227, long:-108.1443943 Bighorn Canyon National Recreation Area
+lat:45.55633048, long:-107.4183614 Little Bighorn Battlefield National Monument
+lat:41.2646141052246, long:-95.9245147705078 Lewis & Clark National Historic Trail
+ Ice Age Floods National Geologic Trail
+lat:44.59824417, long:-110.5471695 Yellowstone National Park
+lat:46.07019093, long:-115.8761258 Nez Perce National Historical Park
+*****************
+lat:40.71452681, long:-74.00447358 African Burial Ground National Monument
+lat:38.971601, long:-76.483355 Captain John Smith Chesapeake National Historic Trail
+lat:40.41029575, long:-76.4337548 Appalachian National Scenic Trail
+lat:43.9974594116211, long:-73.4811935424805 Champlain Valley National Heritage Partnership
+lat:37.3221206665039, long:-76.2533569335938 Chesapeake Bay Gateways and Watertrails Network
+lat:41.76208482, long:-73.89894026 Eleanor Roosevelt National Historic Site
+lat:38.971601, long:-76.483355 Chesapeake Bay
+lat:40.69946, long:-74.0401 Ellis Island Part of Statue of Liberty National Monument
+lat:43.0179443359375, long:-75.9960784912109 Erie Canalway National Heritage Corridor
+lat:40.70731192, long:-74.01025636 Federal Hall National Memorial
+lat:40.70347795, long:-74.01680558 Castle Clinton National Monument
+lat:40.56536246, long:-73.9171087 Gateway National Recreation Area
+lat:43.21053441, long:-75.45557626 Fort Stanwix National Monument
+lat:40.69668638, long:-73.00013462 Fire Island National Seashore
+lat:40.69164233, long:-74.01670765 Governors Island National Monument
+lat:40.81332817, long:-73.96331542 General Grant National Memorial
+lat:40.81871605, long:-73.94878487 Hamilton Grange National Memorial
+lat:41.76639758, long:-73.92516857 Home Of Franklin D Roosevelt National Historic Site
+lat:42.0397300720215, long:-73.9580383300781 Hudson River Valley National Heritage Area
+lat:42.9128920286894, long:-76.5646715462208 Harriet Tubman National Historical Park
+lat:40.6631915953388, long:-74.0451049804688 National Parks of New York Harbor
+lat:42.36819596, long:-73.70834257 Martin Van Buren National Historic Site
+lat:43.084789276123, long:-79.0703277587891 Niagara Falls National Heritage Area
+ North Country National Scenic Trail
+lat:40.88579128, long:-73.49686438 Sagamore Hill National Historic Site
+lat:40.71861134, long:-73.99001777 Lower East Side Tenement Museum National Historic Site
+lat:40.89283511, long:-73.82577276 Saint Paul's Church National Historic Site
+lat:42.99522612, long:-73.63386108 Saratoga National Historical Park
+lat:40.7337799072266, long:-74.0006866455078 Stonewall National Monument
+lat:40.7386469, long:-73.98903703 Theodore Roosevelt Birthplace National Historic Site
+lat:42.90146781, long:-78.87248411 Theodore Roosevelt Inaugural National Historic Site
+lat:40.69572149, long:-74.04232397 Statue Of Liberty National Monument
+lat:42.2257060702034, long:-73.8615486408817 Thomas Cole National Historic Site
+ Washington-Rochambeau Revolutionary Route National Historic Trail
+lat:41.66172578, long:-75.03861562 Upper Delaware Scenic & Recreational River
+lat:42.90817073, long:-76.81655558 Women's Rights National Historical Park
+lat:41.79697937, long:-73.94205557 Vanderbilt Mansion National Historic Site
+*****************
+ Blackstone River Valley National Historical Park
+lat:42.201158, long:-71.668818 John H. Chafee Blackstone River Valley National Heritage Corridor
+lat:41.48928393, long:-71.31211638 Touro Synagogue National Historic Site
+lat:41.8298955, long:-71.41056665 Roger Williams National Memorial
+ Washington-Rochambeau Revolutionary Route National Historic Trail
+*****************
+lat:38.72261844, long:-109.5863666 Arches National Park
+lat:37.58399144, long:-112.1826689 Bryce Canyon National Park
+lat:38.24555783, long:-109.8801624 Canyonlands National Park
+ California National Historic Trail
+lat:40.50739742, long:-108.9333714 Dinosaur National Monument
+lat:38.2821653130533, long:-111.247048377991 Capitol Reef National Park
+lat:41.61947508, long:-112.5242653 Golden Spike National Historical Park
+lat:37.63545562, long:-112.845268 Cedar Breaks National Monument
+lat:37.51841301, long:-110.7718311 Glen Canyon National Recreation Area
+lat:37.6045329, long:-110.0022436 Natural Bridges National Monument
+ Mormon Pioneer National Historic Trail
+lat:37.39134092, long:-109.0047977 Hovenweep National Monument
+ Old Spanish National Historic Trail
+lat:37.07788771, long:-110.9655099 Rainbow Bridge National Monument
+lat:40.44039719, long:-111.7093944 Timpanogos Cave National Monument
+lat:37.29839254, long:-113.0265138 Zion National Park
+ Pony Express National Historic Trail
+*****************
+lat:38.971601, long:-76.483355 Captain John Smith Chesapeake National Historic Trail
+lat:40.42977467, long:-78.57431622 Allegheny Portage Railroad National Historic Site
+lat:38.971601, long:-76.483355 Chesapeake Bay
+lat:40.41029575, long:-76.4337548 Appalachian National Scenic Trail
+lat:41.12793491, long:-74.94751173 Delaware Water Gap National Recreation Area
+lat:37.3221206665039, long:-76.2533569335938 Chesapeake Bay Gateways and Watertrails Network
+lat:39.96195482, long:-75.1500062 Edgar Allan Poe National Historic Site
+lat:40.6690786778927, long:-75.2365978807211 Delaware & Lehigh National Heritage Corridor
+lat:39.83076929, long:-75.56353942 First State National Historical Park
+lat:40.06061476, long:-78.89456905 Flight 93 National Memorial
+lat:39.79577592, long:-77.26508101 Eisenhower National Historic Site
+lat:39.81306048, long:-79.59033344 Fort Necessity National Battlefield
+lat:39.93435005, long:-75.14398924 Gloria Dei Church National Historic Site
+lat:40.20610637, long:-75.76766355 Hopewell Furnace National Historic Site
+lat:39.81557366, long:-77.23246758 Gettysburg National Military Park
+lat:39.77543423, long:-79.92504169 Friendship Hill National Historic Site
+lat:40.34584534, long:-78.77448601 Johnstown Flood National Memorial
+lat:39.94746112, long:-75.14794157 Independence National Historical Park
+lat:41.2646141052246, long:-95.9245147705078 Lewis & Clark National Historic Trail
+lat:38.8904075622559, long:-77.8056488037109 Journey Through Hallowed Ground National Heritage Area
+lat:41.4201164245605, long:-79.7526016235352 Oil Region National Heritage Area
+ Lower Delaware National Wild and Scenic River
+lat:40.2995758056641, long:-79.8619613647461 Rivers Of Steel National Heritage Area
+ North Country National Scenic Trail
+ Potomac Heritage National Scenic Trail
+lat:41.40757521, long:-75.67037255 Steamtown National Historic Site
+lat:39.94345312, long:-75.14732045 Thaddeus Kosciuszko National Memorial
+lat:41.66172578, long:-75.03861562 Upper Delaware Scenic & Recreational River
+ Washington-Rochambeau Revolutionary Route National Historic Trail
+lat:40.10054985, long:-75.44581889 Valley Forge National Historical Park
+ Schuylkill River Valley National Heritage Area
+lat:32.84577392, long:-79.82487582 Charles Pinckney National Historic Site
+*****************
+lat:35.13160654, long:-81.80935433 Cowpens National Battlefield
+lat:32.75654469, long:-79.87068744 Fort Sumter and Fort Moultrie National Historical Park
+lat:33.79187523, long:-80.74867805 Congaree National Park
+lat:35.13900723, long:-81.38978712 Kings Mountain National Military Park
+lat:32.8470785915852, long:-79.8232242465019 Gullah/Geechee Cultural Heritage Corridor
+lat:35.14044, long:-81.377 Overmountain Victory National Historic Trail
+lat:32.3868598937988, long:-80.6511077880859 Reconstruction Era National Historical Park
+lat:33.684154510498, long:-81.5836944580078 South Carolina National Heritage Corridor
+lat:34.14273587, long:-82.01636079 Ninety Six National Historic Site
+*****************
+lat:46.96240467, long:-90.66045665 Apostle Islands National Lakeshore
+ Ice Age National Scenic Trail
+lat:45.70019235, long:-92.36126685 Saint Croix National Scenic Riverway
+ North Country National Scenic Trail
+*****************
+lat:29.53539777, long:-101.075821 Amistad National Recreation Area
+lat:30.42356654, long:-94.3384557 Big Thicket National Preserve
+lat:29.29817767, long:-103.2297897 Big Bend National Park
+lat:35.5819662, long:-101.6717008 Alibates Flint Quarries National Monument
+ El Camino Real de los Tejas National Historic Trail
+lat:31.76729634, long:-106.4544011 Chamizal National Memorial
+lat:30.59930381, long:-103.8961904 Fort Davis National Historic Site
+lat:35.61926203, long:-101.6820066 Lake Meredith National Recreation Area
+lat:30.2519655, long:-98.60692433 Lyndon B Johnson National Historical Park
+ El Camino Real de Tierra Adentro National Historic Trail
+lat:31.92304462, long:-104.885527 Guadalupe Mountains National Park
+lat:26.02387351, long:-97.46296072 Palo Alto Battlefield National Historical Park
+lat:29.31262089, long:-98.4289522 San Antonio Missions National Historical Park
+lat:27.05381186, long:-97.35901135 Padre Island National Seashore
+lat:31.60465887, long:-97.17606143 Waco Mammoth National Monument
+lat:29.52743158, long:-102.5979169 Rio Grande Wild & Scenic River
+*****************
+lat:45.13154227, long:-108.1443943 Bighorn Canyon National Recreation Area
+lat:44.59064655, long:-104.7156341 Devils Tower National Monument
+lat:42.20301694, long:-104.5459112 Fort Laramie National Historic Site
+ California National Historic Trail
+lat:41.85635223, long:-110.7624754 Fossil Butte National Monument
+ Oregon National Historic Trail
+lat:43.81853565, long:-110.7054666 Grand Teton National Park
+lat:44.59824417, long:-110.5471695 Yellowstone National Park
+ Mormon Pioneer National Historic Trail
+ Pony Express National Historic Trail
+*****************
+lat:48.21403036, long:-122.6877213 Ebey's Landing National Historical Reserve
+lat:45.62234841, long:-122.6617043 Fort Vancouver National Historic Site
+lat:47.5993663, long:-122.3319664 Klondike Gold Rush - Seattle Unit National Historical Park
+ Ice Age Floods National Geologic Trail
+lat:48.17148735, long:-118.3513713 Lake Roosevelt National Recreation Area
+lat:46.21178735, long:-123.9638583 Lewis and Clark National Historical Park
+lat:41.2646141052246, long:-95.9245147705078 Lewis & Clark National Historic Trail
+lat:46.86075416, long:-121.7043885 Mount Rainier National Park
+lat:42.80586068, long:-114.4449868 Minidoka National Historic Site
+lat:39.76948167, long:-100.8429548 Manhattan Project National Historical Park
+lat:46.07019093, long:-115.8761258 Nez Perce National Historical Park
+ Oregon National Historic Trail
+lat:48.51241933, long:-123.0610277 San Juan Island National Historical Park
+lat:46.04119286, long:-118.4629388 Whitman Mission National Historic Site
+ Wing Luke Museum Affiliated Area
+lat:48.71171756, long:-121.2069423 North Cascades National Park
+lat:47.80392754, long:-123.6663848 Olympic National Park
+*****************
+lat:40.41029575, long:-76.4337548 Appalachian National Scenic Trail
+lat:43.9974594116211, long:-73.4811935424805 Champlain Valley National Heritage Partnership
+ North Country National Scenic Trail
+lat:43.63348732, long:-72.53424638 Marsh - Billings - Rockefeller National Historical Park
+*****************
+lat:40.41029575, long:-76.4337548 Appalachian National Scenic Trail
+lat:37.38022164, long:-78.79856982 Appomattox Court House National Historical Park
+lat:36.53386746, long:-81.0420999 Blue Ridge Parkway
+lat:38.05593172, long:-75.24524611 Assateague Island National Seashore
+lat:38.8822021484375, long:-77.0734786987305 Arlington House, The Robert  E. Lee Memorial
+lat:37.11520539, long:-79.73185833 Booker T Washington National Monument
+lat:39.0093576, long:-78.30618934 Cedar Creek & Belle Grove National Historical Park
+lat:38.971601, long:-76.483355 Chesapeake Bay
+lat:37.3221206665039, long:-76.2533569335938 Chesapeake Bay Gateways and Watertrails Network
+lat:38.93596206, long:-77.04998374 Civil War Defenses of Washington
+lat:37.22824435, long:-76.61998123 Colonial National Historical Park
+lat:36.62503076, long:-83.6114083 Cumberland Gap National Historical Park
+lat:38.971601, long:-76.483355 Captain John Smith Chesapeake National Historic Trail
+lat:38.28277118, long:-77.6470428 Fredericksburg & Spotsylvania National Military Park
+lat:36.9280548096, long:-76.0083312988 Cape Henry Memorial Part of Colonial National Historical Park
+lat:38.19362603, long:-76.92079458 George Washington Birthplace National Monument
+lat:38.98776107, long:-77.25128326 Great Falls Park
+lat:38.85452263, long:-77.08528147 George Washington Memorial Parkway
+lat:39.31865949, long:-77.74088546 Harpers Ferry National Historical Park
+lat:37.20027185, long:-76.75469561 Historic Jamestowne Part of Colonial National Historical Park
+lat:38.02745704, long:-78.16540204 Green Springs
+lat:38.8904075622559, long:-77.8056488037109 Journey Through Hallowed Ground National Heritage Area
+lat:38.81710063, long:-77.5353468 Manassas National Battlefield Park
+lat:37.19109957, long:-77.47594865 Petersburg National Battlefield
+lat:35.14044, long:-81.377 Overmountain Victory National Historic Trail
+ Potomac Heritage National Scenic Trail
+lat:37.01733343, long:-76.30103195 Fort Monroe National Monument
+lat:37.48774472, long:-77.29107785 Richmond National Battlefield Park
+lat:37.54781499, long:-77.43746979 Maggie L Walker National Historic Site
+lat:38.5846176147461, long:-78.7985458374023 Shenandoah Valley Battlefields National Historic District
+lat:38.58589108, long:-77.38910997 Prince William Forest Park
+lat:39.2872505188, long:-76.6034317017 Star-Spangled Banner National Historic Trail
+lat:38.49236644, long:-78.46907715 Shenandoah National Park
+lat:38.93854526, long:-77.265089 Wolf Trap National Park for the Performing Arts
+ Washington-Rochambeau Revolutionary Route National Historic Trail
+lat:37.38623205, long:-76.29900672 Yorktown Battlefield Part of Colonial National Historical Park
+******West Virginia***********
+lat:40.41029575, long:-76.4337548 Appalachian National Scenic Trail
+lat:39.3909816, long:-77.89763546 Chesapeake & Ohio Canal National Historical Park
+lat:37.56577087, long:-80.98366657 Bluestone National Scenic River
+lat:37.3221206665039, long:-76.2533569335938 Chesapeake Bay Gateways and Watertrails Network
+lat:38.971601, long:-76.483355 Chesapeake Bay
+lat:38.20614947, long:-81.00420836 Gauley River National Recreation Area
+lat:39.31865949, long:-77.74088546 Harpers Ferry National Historical Park
+lat:41.2646141052246, long:-95.9245147705078 Lewis & Clark National Historic Trail
+lat:37.86878554, long:-80.99956002 New River Gorge National River
+lat:40.0387420654297, long:-80.6968994140625 Wheeling National Heritage Area
+lat:38.8904075622559, long:-77.8056488037109 Journey Through Hallowed Ground National Heritage Area
+ Coal National Heritage Area
+********Oklahoma*********
+lat:35.38834746, long:-94.43129079 Fort Smith National Historic Site
+ Santa Fe National Historic Trail
+lat:34.46050507, long:-97.00715669 Chickasaw National Recreation Area
+ Trail Of Tears National Historic Trail
+lat:35.47297978, long:-97.51709193 Oklahoma City National Memorial
+lat:35.62083963, long:-99.70445143 Washita Battlefield National Historic Site
+********South Dakota*********
+lat:41.2646141052246, long:-95.9245147705078 Lewis & Clark National Historic Trail
+lat:43.73102945, long:-103.829994 Jewel Cave National Monument
+lat:43.68584846, long:-102.482942 Badlands National Park
+lat:43.89558013, long:-102.0272131 Minuteman Missile National Historic Site
+lat:43.88037021, long:-103.4525186 Mount Rushmore National Memorial
+lat:43.58012365, long:-103.4394709 Wind Cave National Park
+lat:42.7882189, long:-97.59077822 Missouri National Recreational River
+********Oregon********* 
+ California National Historic Trail
+lat:42.94065854, long:-122.1338414 Crater Lake National Park
+lat:44.62566508, long:-119.8811491 John Day Fossil Beds National Monument
+lat:41.2646141052246, long:-95.9245147705078 Lewis & Clark National Historic Trail
+lat:46.21178735, long:-123.9638583 Lewis and Clark National Historical Park
+lat:46.07019093, long:-115.8761258 Nez Perce National Historical Park
+lat:42.10319143, long:-123.4018586 Oregon Caves National Monument & Preserve
+ Oregon National Historic Trail
+ Ice Age Floods National Geologic Trail
+lat:45.62234841, long:-122.6617043 Fort Vancouver National Historic Site
+********Tennessee********* 
+lat:36.15624509, long:-82.83709021 Andrew Johnson National Historic Site
+lat:34.94317623, long:-85.28749537 Chickamauga & Chattanooga National Military Park
+lat:36.5348388, long:-84.66506688 Big South Fork National River & Recreation Area
+lat:36.62503076, long:-83.6114083 Cumberland Gap National Historical Park
+lat:40.41029575, long:-76.4337548 Appalachian National Scenic Trail
+lat:35.60116374, long:-83.50818326 Great Smoky Mountains National Park
+lat:39.76948167, long:-100.8429548 Manhattan Project National Historical Park
+lat:34.3302903330188, long:-88.7100104093552 Natchez Trace National Scenic Trail
+lat:33.78002293, long:-89.03092439 Natchez Trace Parkway
+lat:35.14044, long:-81.377 Overmountain Victory National Historic Trail
+lat:36.1056026036731, long:-84.5979170501232 Obed Wild & Scenic River
+lat:36.49019078, long:-87.92445695 Fort Donelson National Battlefield
+lat:35.8429870605469, long:-86.3433303833008 Tennessee Civil War National Heritage Area
+lat:35.13850907, long:-88.3421072 Shiloh National Military Park
+lat:35.87608652, long:-86.43078399 Stones River National Battlefield
+ Trail Of Tears National Historic Trail

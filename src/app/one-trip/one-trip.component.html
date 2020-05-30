@@ -1,0 +1,26 @@
+<div class = 'navbar d-flex justify-content-around'>
+<a>Home</a>
+<a>Plan Route</a>
+<a> Deal Finder</a>
+<button class = 'btn btn-primary' id = 'newtrip' (click) = 'openModal()'> New Trip</button>
+</div>
+<div class='container-fluid'>
+  <h1 class='panel panel-default black-border center'> {{userName}}'s Bucket List</h1>
+  <div class='black-border test d-flex justify-content-around'>
+    <div class='card trip-box' *ngFor="let data of userTrips">
+        <!-- <div class = 'card-body'> -->
+     <button type="button" class="close exit-button" id ="location-{{data.id}}" data-dismiss="modal" (click) = "deleteTrip(data.id)">&times;</button>
+      <h4 class = 'center' (click) = "openTripPage(data)">{{data.location}}</h4>
+      <p>Duration: {{data.duration}} </p>
+      <p>Cost: {{data.cost}} </p>
+      <p>Date: {{data.date}} </p>
+
+    <!-- </div> -->
+    <!-- <button class='btn btn-danger' id='deleteTrip' (click)='deleteTrip()'>Delete</button> -->
+    
+    </div>
+
+  </div>
+</div>
+<app-location-modal *ngIf="modalOn" (notify)="parentMethod($event)" (locationSend)="parentInput($event)"></app-location-modal>
+

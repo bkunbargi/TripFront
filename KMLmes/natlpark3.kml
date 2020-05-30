@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+     <kml xmlns='http://www.opengis.net/kml/2.2'> 
+     <Document>
+     <Name>NatlStuffMe</Name>
+     <Placemark>
+      <name>Fredericksburg & Spotsylvania National Military Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-77.6470428,38.28277118,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Cape Henry Memorial Part of Colonial National Historical Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-76.0083312988,36.9280548096,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>George Washington Birthplace National Monument </name>
+      <description></description>
+      <Point>
+       <coordinates>-76.92079458,38.19362603,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Cumberland Gap National Historical Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-83.6114083,36.62503076,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Great Falls Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-77.25128326,38.98776107,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Harpers Ferry National Historical Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-77.74088546,39.31865949,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Historic Jamestowne Part of Colonial National Historical Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-76.75469561,37.20027185,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Green Springs </name>
+      <description></description>
+      <Point>
+       <coordinates>-78.16540204,38.02745704,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>George Washington Memorial Parkway </name>
+      <description></description>
+      <Point>
+       <coordinates>-77.08528147,38.85452263,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Journey Through Hallowed Ground National Heritage Area </name>
+      <description></description>
+      <Point>
+       <coordinates>-77.8056488037109,38.8904075622559,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Petersburg National Battlefield </name>
+      <description></description>
+      <Point>
+       <coordinates>-77.47594865,37.19109957,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Overmountain Victory National Historic Trail </name>
+      <description></description>
+      <Point>
+       <coordinates>-81.377,35.14044,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Manassas National Battlefield Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-77.5353468,38.81710063,0</coordinates>
+      </Point>
+    </Placemark> 
+  </Document>
+</kml>

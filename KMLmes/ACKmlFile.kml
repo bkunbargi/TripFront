@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+  <Document>
+    <Placemark>
+      <name>Denali National Park bro Preserve</name>
+      <description>National Park bro Preserve</description>
+      <Point>
+        <coordinates>-151.0526568,63.29777484,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gates Of The Arctic National Park bro Preserve</name>
+      <description>National Park bro Preserve</description>
+      <Point>
+        <coordinates>-153.2917758,67.75961636,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glacier Bay National Park bro Preserve</name>
+      <description>National Park bro Preserve</description>
+      <Point>
+        <coordinates>-136.8407579,58.80086718,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kenai Fjords National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-150.106502,59.81804414,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kobuk Valley National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-159.2002293,67.35631336,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lake Clark National Park bro Preserve</name>
+      <description>National Park bro Preserve</description>
+      <Point>
+        <coordinates>-153.55535,60.57405857,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

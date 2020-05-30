@@ -1,0 +1,24 @@
+p{
+    color:white;
+    font-weight:bold;
+    margin-right: 10px;
+}
+
+.home-background{
+    height: 100%;
+    background-image:
+    url(https://images.unsplash.com/photo-1503460201202-ebb366ea0cd5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEzMDA0fQ&auto=format&fit=crop&w=1000&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    opacity: 1.0;
+}
+
+.home-content{
+    display: flex;
+    align-items: baseline;
+}
+
+.black-border{
+    border:1px solid black;
+}

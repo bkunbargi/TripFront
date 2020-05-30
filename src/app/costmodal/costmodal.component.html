@@ -1,0 +1,37 @@
+<div class='cost-calc'>
+  <h1 class='cost-title center'> Cost calculator </h1>
+  <div class='cacl-questions'>
+    <div>
+      <p class="cost-font"> Flight there and back (or equivalent): </p>
+      <input id='t-cost' class='cost-input' name='t-cost' type='text' [(ngModel)]="input1" [value]="input1"
+        placeholder="Estimate" (focusout)="runningTotal($event)" />
+    </div>
+    <p class="cost-font"> Accomodations: </p>
+    <input id='a-cost' class='cost-input' name='a-cost' type='text' [(ngModel)]="input2" [value]="input2"
+      placeholder="Estimate" (focusout)="runningTotal($event)" />
+    <p class="cost-font"> Transportation: </p>
+    <input id='transpo-cost' class='cost-input' name='transpo-cost' type='text' [(ngModel)]="input3" [value]="input3"
+      placeholder="Estimate" (focusout)="runningTotal($event)" />
+    <p class="cost-font"> Food & Drink:</p>
+    <input id='fd-dk-cost' class='cost-input' name='fd-dk-cost' type='text' [(ngModel)]="input4" [value]="input4"
+      placeholder="Estimate" (focusout)="runningTotal($event)" />
+    <p class="cost-font"> Activities: </p>
+    <input id='act-cost' class='cost-input' name='act-cost' type='text' [(ngModel)]="input5" [value]="input5"
+      placeholder="Estimate" (focusout)="runningTotal($event)" />
+    <p class="cost-font">Miscellaneous:</p>
+    <input id='misc-cost' class='cost-input' name='misc-cost' type='text' [(ngModel)]="input6" [value]="input6"
+      placeholder="Estimate" (focusout)="runningTotal($event)" />
+  </div>
+  <h4 id='calc-total' class='calc-total'> Total: {{total}} </h4>
+  <input type="submit" id="calc-submit" class="btn btn-primary" (click)='calcSubmit()'>
+
+</div>
+
+<!-- 
+    Cost per night × #nights 
+    = cost per day × days
+     = (avg meal cost x meals per day + avg meal cost x 25%) x days
+    = average activitie cost x avg activities per day 
+    : Memoribilia, gifts, tipping
+
+-->

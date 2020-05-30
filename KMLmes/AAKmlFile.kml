@@ -1,0 +1,439 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+  <Document>
+    <Placemark>
+      <name>Denali National Park and Preserve</name>
+      <description>National Park and Preserve</description>
+      <Point>
+        <coordinates>-151.0526568,63.29777484,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gates Of The Arctic National Park and Preserve</name>
+      <description>National Park and Preserve</description>
+      <Point>
+        <coordinates>-153.2917758,67.75961636,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glacier Bay National Park and Preserve</name>
+      <description>National Park and Preserve</description>
+      <Point>
+        <coordinates>-136.8407579,58.80086718,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Katmai National Park and Preserve</name>
+      <description>National Park and Preserve</description>
+      <Point>
+        <coordinates>-155.0126574,58.62235668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kenai Fjords National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-150.106502,59.81804414,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kobuk Valley National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-159.2002293,67.35631336,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wrangell - St Elias National Park and Preserve</name>
+      <description>National Park and Preserve</description>
+      <Point>
+        <coordinates>-142.6028439,61.4182147,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hot Springs National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-93.06332936,34.52414366,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lake Clark National Park and Preserve</name>
+      <description>National Park and Preserve</description>
+      <Point>
+        <coordinates>-153.55535,60.57405857,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grand Canyon National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-112.6836024,36.17280161,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Petrified Forest National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-109.7877678,34.98387664,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Black Canyon Of The Gunnison National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-107.7242756,38.57779869,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Great Sand Dunes National Park and Preserve</name>
+      <description>National Park and Preserve</description>
+      <Point>
+        <coordinates>-105.5919572,37.79256812,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mesa Verde National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-108.4624032,37.23908345,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Channel Islands National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-119.9112735,33.98680093,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rocky Mountain National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-105.6972879,40.3556924,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saguaro National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-110.7574974,32.20909636,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Joshua Tree National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-115.8398125,33.91418525,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lassen Volcanic National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-121.4075993,40.49354575,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sequoia and Kings Canyon National Parks</name>
+      <description>National Parks</description>
+      <Point>
+        <coordinates>-118.587429,36.71277299,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Death Valley National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-117.134395,36.48753731,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yosemite National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-119.5571873,37.84883288,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Biscayne National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-80.21023851,25.490587,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dry Tortugas National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-82.87319,24.628741,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Everglades National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-80.88200301,25.37294225,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Haleakaland#257; National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-156.1591775,20.70693015,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pinnacles National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-121.1813607,36.49029208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hawai'i Volcanoes National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-155.4700257,19.3355036,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Indiana Dunes National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-87.09647445,41.63765525,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yellowstone National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-110.5471695,44.59824417,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mammoth Cave National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-86.13090198,37.19760458,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Isle Royale National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-88.82780657,48.01145819,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Voyageurs National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-92.8382913,48.48370609,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gateway Arch National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-90.1892508,38.6258069,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glacier National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-113.8009306,48.68414678,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yellowstone National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-110.5471695,44.59824417,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Great Smoky Mountains National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-83.50818326,35.60116374,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Theodore Roosevelt National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-103.4300083,47.17777274,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carlsbad Caverns National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-104.5529688,32.14089463,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Death Valley National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-117.134395,36.48753731,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>White Sands National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-106.3333461,32.77907858,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cuyahoga Valley National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-81.57116722,41.26093905,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Great Basin National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-114.2579782,38.94617378,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Acadia National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-68.30063316,44.30777545,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Crater Lake National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-122.1338414,42.94065854,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Congaree National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-80.74867805,33.79187523,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wind Cave National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-103.4394709,43.58012365,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Great Smoky Mountains National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-83.50818326,35.60116374,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Guadalupe Mountains National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-104.885527,31.92304462,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Badlands National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-102.482942,43.68584846,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Big Bend National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-103.2297897,29.29817767,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bryce Canyon National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-112.1826689,37.58399144,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Canyonlands National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-109.8801624,38.24555783,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Capitol Reef National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-111.247048377991,38.2821653130533,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Zion National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-113.0265138,37.29839254,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arches National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-109.5863666,38.72261844,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shenandoah National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-78.46907715,38.49236644,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mount Rainier National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-121.7043885,46.86075416,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North Cascades National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-121.2069423,48.71171756,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Yellowstone National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-110.5471695,44.59824417,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Olympic National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-123.6663848,47.80392754,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grand Teton National Park</name>
+      <description>National Park</description>
+      <Point>
+        <coordinates>-110.7054666,43.81853565,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

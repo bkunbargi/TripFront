@@ -1,0 +1,132 @@
+<div [ngClass]="showLightPollution ? 'map-sidebar-white' : 'map-sidebar'">
+  <div class="lock-div-icon" (click)="editOpen()">
+    <fa-icon class='lock-icon' [icon]="faLock" *ngIf="showFirst"></fa-icon>
+    <fa-icon class='lock-icon' [icon]="faUnlock" *ngIf="!showFirst"></fa-icon>
+  </div>
+  <div class='sidebar-expand' (click)="expandSidebar()">
+    <fa-icon class='map-options' [icon]="cDown" size="2x"></fa-icon>
+  </div>
+  <div class='sidebar-options' *ngIf="showIcons">
+    <div class='sidebar-icon' (click)=showLayer()>
+      <fa-icon class='layer-show' [icon]="faLayerGroup" size="lg"></fa-icon>
+      <div *ngIf="showSubLayer" class="layer-sublist">
+        <fa-icon (click)="terrainView()" [icon]="faMountain"></fa-icon>
+        <fa-icon (click)="SatelliteView()" [icon]="faSatellite"></fa-icon>
+        <fa-icon (click)="roadMapView()" [icon]="faMap"></fa-icon>
+      </div>
+    </div>
+    <div class='sidebar-icon' (click)=showCamping()>
+      <fa-icon class='camp-show' [icon]="faCampground" size="lg"></fa-icon>
+    </div>
+    <div class='sidebar-icon' (click)=showHotels()>
+      <fa-icon class='hotels-show' [icon]="faHotel" size="lg"></fa-icon>
+    </div>
+    <div class='sidebar-icon' (click)=showNatlParks()>
+      <fa-icon class='nature-show' [icon]="faLeaf" size="lg"></fa-icon>
+    </div>
+    <div class='sidebar-icon' (click)=showRoads()>
+      <fa-icon class='road-show' [icon]="faRoad" size="lg"></fa-icon>
+    </div>
+    <div class='sidebar-icon' (click)=showLight()>
+      <fa-icon class='lightbulb-show' [icon]="faLightbulb" size="lg"></fa-icon>
+    </div>
+
+
+  </div>
+</div>
+
+<agm-map class='gmap_canvas' [zoom]='zoomLevel' [latitude]="lat" [longitude]="lng"
+  (mapClick)="mapClicked($event.coords.lat, $event.coords.lng)" [fullscreenControl]='true' [panControl]=true
+  [panControlOptions]=true [usePanning]=true (zoomChange)="zoomeChanged($event)" [styles]="styles"
+  (centerChange)="someFunc($event)" [mapTypeId]="mapViewChoice">
+  <!-- 
+  <agm-kml-layer *ngIf="showLightPollution" [url]="'https://www.dropbox.com/s/5s7983mw6d5j89t/sky17.kml?dl=1'"
+    [zIndex]=0 [preserveViewport]="true" (layerClick)="layerClicked($event)"
+    (defaultViewportChange)="layerClicked($event)" (statusChange)="layerClickeds($event)">
+  </agm-kml-layer> -->
+
+  <agm-kml-layer *ngIf="showParks" [url]="'https://www.dropbox.com/s/9y2vn9k6oq6x158/AAKmlFile.kml?dl=1'"
+    (layerClick)="layerClicked($event)" (defaultViewportChange)="layerClicked($event)"
+    (statusChange)="layerClickeds($event)">
+  </agm-kml-layer>
+
+  <!-- <agm-kml-layer [url]="'https://www.dropbox.com/s/94hbg949saeurhn/natlpark2.kml?dl=1'"
+[zIndex]=0 [preserveViewport]="true" (layerClick)="layerClicked($event)"
+(defaultViewportChange)="layerClicked($event)" (statusChange)="layerClickeds($event)">
+</agm-kml-layer>
+
+<agm-kml-layer [url]="'https://www.dropbox.com/s/ajc367mxtpzzcv9/natlpark3.kml?dl=1'"
+[zIndex]=0 [preserveViewport]="true" (layerClick)="layerClicked($event)"
+(defaultViewportChange)="layerClicked($event)" (statusChange)="layerClickeds($event)">
+</agm-kml-layer> -->
+  <agm-marker *ngFor="let m of pulledCoords; let i = index" [latitude]="m.latitude" [longitude]="m.longitude"
+    (markerClick)="clickedMarker(m, i)">
+
+    <agm-info-window (infoWindowClose)="infoWindowClosed(m,$event,i)">
+      <div class='useIT' (focusout)="printNewShit($event,i,m)" contentEditable="{{!noEditting}}"> {{m.note}}</div>
+    </agm-info-window>
+
+  </agm-marker>
+
+  <agm-marker *ngFor="let m of markers; let i = index" [latitude]="m.latitude" [longitude]="m.longitude"
+    (markerClick)="clickedMarker(m, i)">
+
+    <agm-info-window (infoWindowClose)="infoWindowClosed(m,$event,i)">
+      <div class='useIT' [(innerHTML)]=m.note (focusout)="printNewShit($event,i,m)" contentEditable="{{!noEditting}}">
+        {{m.note}}</div>
+    </agm-info-window>
+
+  </agm-marker>
+
+
+
+
+  <!-- <agm-polyline>
+              <agm-polyline-point [latitude]="10" [longitude]="0">
+                <agm-icon-sequence [fillOpacity] = "1.0" [fixedRotation]="true" [path]="'FORWARD_OPEN_ARROW'">
+                </agm-icon-sequence>
+              </agm-polyline-point>
+              <agm-polyline-point [latitude]="57.32" [longitude]="32">
+                <agm-icon-sequence [fillOpacity] = "1.0" [fixedRotation]="true" [path]="'FORWARD_OPEN_ARROW'">
+                  </agm-icon-sequence>
+              </agm-polyline-point>
+              <agm-polyline-point [latitude]="22.32" [longitude]="48">
+                <agm-icon-sequence [fillOpacity] = "1.0" [fixedRotation]="true" [path]="'FORWARD_OPEN_ARROW'">
+                  </agm-icon-sequence>
+              </agm-polyline-point>
+              <agm-polyline-point [latitude]="1" [longitude]="31">
+                <agm-icon-sequence [fillOpacity] = "1.0" [fillColor] = "black" [fixedRotation]="true" [path]="'FORWARD_OPEN_ARROW'">
+                  </agm-icon-sequence>
+              </agm-polyline-point>
+          </agm-polyline> -->
+
+
+  <!-- <agm-polyline [paths]="paths" [fillOpacity] = 0>
+    
+    
+  </agm-polyline>
+  <agm-icon-sequence [fixedRotation]="true" [path]="'FORWARD_OPEN_ARROW'"></agm-icon-sequence> -->
+  <!-- <agm-rectangle
+  [editable] = true
+  [fillColor] = black
+  [fillOpacity] = 1.0
+  [east] = -107.027977
+  [north] = 31.565802
+  [south] = 29.882602
+  [west] = -109.356853
+  >
+    
+  </agm-rectangle> -->
+  <!-- 
+  <agm-circle [latitude]="lat + 0.3" [longitude]="lng" 
+  [radius]="5000"
+  [fillColor]="'red'"
+  [circleDraggable]="true"
+  [editable]="true">
+</agm-circle> -->
+
+</agm-map>
+
+
+
+<!-- Have a general map then a zoomed map? -->

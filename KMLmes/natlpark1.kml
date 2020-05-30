@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+     <kml xmlns='http://www.opengis.net/kml/2.2'> 
+     <Document>
+      <Placemark>
+      <name>Arkansas Post National Memorial </name>
+      <description></description>
+      <Point>
+       <coordinates>-91.30837178,34.00389998,0</coordinates>
+      </Point>
+    </Placemark> 
+    <Placemark>
+      <name>Hot Springs National Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-93.06332936,34.52414366,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Pea Ridge National Military Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-94.03468357,36.45438033,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Buffalo National River </name>
+      <description></description>
+      <Point>
+       <coordinates>-92.90761584,36.04116481,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Little Rock Central High School National Historic Site </name>
+      <description></description>
+      <Point>
+       <coordinates>-92.29987899,34.7369465,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>President William Jefferson Clinton Birthplace Home National Historic Site </name>
+      <description></description>
+      <Point>
+       <coordinates>-93.59641868,33.66758356,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Fort Smith National Historic Site </name>
+      <description></description>
+      <Point>
+       <coordinates>-94.43129079,35.38834746,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Little River Canyon National Preserve </name>
+      <description></description>
+      <Point>
+       <coordinates>-85.61734327,34.41461863,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Birmingham Civil Rights National Monument </name>
+      <description></description>
+      <Point>
+       <coordinates>-86.8146667480469,33.5154266357422,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Horseshoe Bend National Military Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-85.73413589,32.97668879,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Muscle Shoals National Heritage Area </name>
+      <description></description>
+      <Point>
+       <coordinates>-87.4196395874023,34.6414527893066,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Natchez Trace National Scenic Trail </name>
+      <description></description>
+      <Point>
+       <coordinates>-88.7100104093552,34.3302903330188,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Natchez Trace Parkway </name>
+      <description></description>
+      <Point>
+       <coordinates>-89.03092439,33.78002293,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Freedom Riders National Monument </name>
+      <description></description>
+      <Point>
+       <coordinates>-85.9064331054688,33.6352691650391,0</coordinates>
+      </Point>
+    </Placemark> 
+    <Placemark>
+      <name>Selma To Montgomery National Historic Trail </name>
+      <description></description>
+      <Point>
+       <coordinates>-86.72823702,32.27082092,0</coordinates>
+      </Point>
+    </Placemark> 
+  </Document>
+</kml>

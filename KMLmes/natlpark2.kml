@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+     <kml xmlns='http://www.opengis.net/kml/2.2'> 
+     <Document>
+     <Name>NatlStuff</Name>
+      <Placemark>
+      <name>Canyon de Chelly National Monument </name>
+      <description></description>
+      <Point>
+       <coordinates>-109.3388303,36.14319567,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Chiricahua National Monument </name>
+      <description></description>
+      <Point>
+       <coordinates>-109.341607,32.01214618,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Glen Canyon National Recreation Area </name>
+      <description></description>
+      <Point>
+       <coordinates>-110.7718311,37.51841301,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Grand Canyon National Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-112.6836024,36.17280161,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Hohokam Pima National Monument </name>
+      <description></description>
+      <Point>
+       <coordinates>-111.9192737,33.18713877,0</coordinates>
+      </Point>
+    </Placemark> 
+    <Placemark>
+      <name>Sunset Crater Volcano National Monument </name>
+      <description></description>
+      <Point>
+       <coordinates>-111.510376,35.37114323,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Saguaro National Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-110.7574974,32.20909636,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Pipe Spring National Monument </name>
+      <description></description>
+      <Point>
+       <coordinates>-112.7398567,36.86282666,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Tumacácori National Historical Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-111.051223,31.567824,0</coordinates>
+      </Point>
+    </Placemark> 
+    <Placemark>
+      <name>Wupatki National Monument </name>
+      <description></description>
+      <Point>
+       <coordinates>-111.3957216,35.55741077,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Walnut Canyon National Monument </name>
+      <description></description>
+      <Point>
+       <coordinates>-111.5024239,35.16822994,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Tuzigoot National Monument </name>
+      <description></description>
+      <Point>
+       <coordinates>-112.0279069,34.77296377,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Coronado National Memorial </name>
+      <description></description>
+      <Point>
+       <coordinates>-110.2561574,31.34900397,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Tonto National Monument </name>
+      <description></description>
+      <Point>
+       <coordinates>-111.1135627,33.64842945,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Cabrillo National Monument </name>
+      <description></description>
+      <Point>
+       <coordinates>-117.2415985,32.6722503,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Castle Mountains National Monument </name>
+      <description></description>
+      <Point>
+       <coordinates>-115.0935606,35.29156348,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Manhattan Project National Historical Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-100.8429548,39.76948167,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Blue Ridge Parkway </name>
+      <description></description>
+      <Point>
+       <coordinates>-81.0420999,36.53386746,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>El Morro National Monument </name>
+      <description></description>
+      <Point>
+       <coordinates>-108.3463984,35.03895916,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Pecos National Historical Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-105.6814684,35.54192238,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Salinas Pueblo Missions National Monument </name>
+      <description></description>
+      <Point>
+       <coordinates>-106.2050309,34.35423203,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>White Sands National Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-106.3333461,32.77907858,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Petroglyph National Monument </name>
+      <description></description>
+      <Point>
+       <coordinates>-106.7491456,35.13915998,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Valles Caldera National Preserve </name>
+      <description></description>
+      <Point>
+       <coordinates>-106.5195724,35.91682872,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Death Valley National Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-117.134395,36.48753731,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Lake Mead National Recreation Area </name>
+      <description></description>
+      <Point>
+       <coordinates>-114.3469067,35.96622528,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Great Basin National Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-114.2579782,38.94617378,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Tule Springs Fossil Beds National Monument </name>
+      <description></description>
+      <Point>
+       <coordinates>-115.3202223,36.3893217,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Charles Young Buffalo Soldiers National Monument </name>
+      <description></description>
+      <Point>
+       <coordinates>-83.89328575,39.70817829,0</coordinates>
+      </Point>
+    </Placemark> 
+<Placemark>
+      <name>Cuyahoga Valley National Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-81.57116722,41.26093905,0</coordinates>
+      </Point>
+    </Placemark> 
+    <Placemark>
+      <name>Dayton Aviation Heritage National Historical Park </name>
+      <description></description>
+      <Point>
+       <coordinates>-84.10442045,39.78944467,0</coordinates>
+      </Point>
+    </Placemark> 
+    <Placemark>
+      <name>Fallen Timbers Battlefield and Fort Miamis National Historic Site </name>
+      <description></description>
+      <Point>
+       <coordinates>-83.6975021362305,41.5441665649414,0</coordinates>
+      </Point>
+    </Placemark> 
+  </Document>
+</kml>
